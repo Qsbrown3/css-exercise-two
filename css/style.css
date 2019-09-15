@@ -23,6 +23,7 @@ nav {
 
 .medium-pic {
   width: 70%;
+  background-image: url(images/instagram-pic.jpg);
 }
 
 .left, .right {
@@ -132,7 +133,3 @@ a:hover {
 
 a: active {
   color: black;
-
-.medium-pic {
-  background: (images/instagram-pic.jpg);
-}
